@@ -1,1 +1,1 @@
-# data-science-notebooks
+# PROJETOS DOS CURSOS DE FORMAÇÃO DATA SCIENCE - ALURA
